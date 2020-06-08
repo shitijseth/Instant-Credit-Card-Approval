@@ -3,3 +3,4 @@ The goal of the project was to develop an algorithm to predict approval for cred
 
 ## Contents
 1. MATH 485 Final Written Report.pdf - Final project report submitted on 12 May 2020
+2. math485_poster1_new.pdf- Project poster presented on 7 May 2020
