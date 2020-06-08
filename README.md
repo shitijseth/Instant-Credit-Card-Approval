@@ -8,3 +8,4 @@ Done in Python using scikit-learn
 2. math485_poster1_new.pdf- Project poster presented on 7 May 2020
 3. ensembling.ipynb- Code for algorithm comparison and ensembling using Voting Classifier
 4. credit_data_load.ipynb- Code for reading in data from Excel file
+5. credit_card_ANN.ipynb- Artificial Neural Networks implementation on Credit Card Applications data
